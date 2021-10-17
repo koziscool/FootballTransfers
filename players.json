@@ -1,14 +1,13 @@
 
 {
-    "bought": [
-        "Kai Havertz",
-        "Timo Werner",
-        "Ben Chilwell",
-        "Hakim Ziyech",
-        "Edouard Mendy",
-        "Malang Sarr",
-        "Thiago Silva"
-    ],
+    "bought": {
+        "Kai Havertz": "2020-04-01",
+        "Timo Werner": "2020-06-18",
+        "Ben Chilwell": "2020-08-26",
+        "Hakim Ziyech":"2020-02-13",
+        "Edouard Mendy": "2020-09-24",
+        "Thiago Silva": "2020-08-28"
+    },
     "not bought": [
         "Sergio Reguilon",
         "Jadon Sancho",
